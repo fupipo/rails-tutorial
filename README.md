@@ -2,4 +2,4 @@ ruby on rails tutorial
 
 ##hello!
 
-ぬおおおおおおおお
+ぬおおおおおおおお# rails-tutorial
